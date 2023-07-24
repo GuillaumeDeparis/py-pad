@@ -1,0 +1,1 @@
+#Fichier regroupant les classes et fonctions pour analyser les propriétés audio, comme le spectre fréquentiel, les niveaux sonores, etc.

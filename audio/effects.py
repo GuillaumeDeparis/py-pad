@@ -1,0 +1,1 @@
+#Fichier contenant les classes et fonctions pour appliquer des effets audio, tels que l'égalisation, la réverbération, etc.
